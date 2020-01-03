@@ -1,0 +1,20 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Zach Warner
+tagline:          'Political scientist'
+description:      'Postdoctoral research fellow, Centre for Political and Legal Analytics, Cardiff University'
+url:              http://zachwarner.net
+baseurl:          /
+
+author:
+  name:           'Zach Warner'
+  url:            https://twitter.com/ZachMWarner
+
+paginate:         500
