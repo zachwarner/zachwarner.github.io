@@ -15,5 +15,3 @@ Cardiff University <br>
 Law Building, Museum Ave. <br>
 Cardiff CF10 3AX <br>
 United Kingdom
-
-<i class="fas fa-user"></i> <!-- uses solid style -->
