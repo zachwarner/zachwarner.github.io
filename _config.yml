@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        pretty
@@ -15,5 +15,3 @@ baseurl:          /
 author:
   name:           'Zach Warner'
   url:            https://twitter.com/ZachMWarner
-
-paginate:         500
