@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Research
-permalink: /research/
+permalink: /research
 ---
 
 ### Publications
@@ -11,28 +11,28 @@ permalink: /research/
 <a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
 
 "A New Measure of Congruence: The Earth Mover's Distance" (with Noam Lupu and Lucía Selios). 2017. *Political Analysis* 25 (1): 95-113. <br>
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Lupu-Selios-Warner-EMD.pdf"><i class='fa fa-file-pdf-o'></i> [paper]</a></span>
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Selios-Warner-EMD.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [paper]</a></span>
 <span style="padding-left:5%"><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NO90AJ"><i class='fa fa-code-fork'></i> [replication archive]</a></span>
 
 "Mass-Elite Congruence and Representation in Argentina" (with Noam Lupu), in *Malaise in Representation in Latin American Countries: Chile, Argentina, Uruguay*, eds. Alfredo Joignant, Mauricio Morales, and Claudio Fuentes. New York: Palgrave Macmillan, pp. 281-302 (2017). <br>
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Lupu-Warner-Congruence-Argentina.pdf"><i class='fa fa-file-pdf-o'></i> [paper]</a></span> 
-<a href="{{ site.url }}/download/Lupu-Warner-Congruence-Argentina-Appendix.pdf"><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Congruence-Argentina.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [paper]</a></span> 
+<a href='{{ "/download/Lupu-Warner-Congruence-Argentina-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
 <span style="padding-left:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Congruence-Argentina"><i class='fa fa-github'></i> [replication archive]</a></span>
 
 ### Research in progress
 *Divide to Rule: Coalition Bargaining and the Architecture of Government* (book manuscript). 
 
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). *Revise and resubmit at the Journal of Politics*. <br>
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Lupu-Warner-Affluence.pdf"><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
-<a href="{{ site.url }}/download/Lupu-Warner-Affluence-Appendix.pdf"><i class='fa fa-file-pdf-o'></i> [appendix]</a>
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
+<a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a>
 
 "Conditional Relationships in Dynamic Models." *Under review*. <br>
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Warner-Conditional-Relationships.pdf"><i class='fa fa-file-pdf-o'></i> [current draft]</a></span> 
-<a href="{{ site.url }}/download/Warner-Conditional-Relationships-Appendix.pdf"><i class='fa fa-file-pdf-o'></i> [appendix]</a>
+<span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [current draft]</a></span> 
+<a href='{{ "/download/Warner-Conditional-Relationships-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a>
 
 "Divide to Rule: Deconcentration and Coalition Bargaining." *Under review*. <br>
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Warner-Divide-to-Rule.pdf"><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
-<a href="{{ site.url }}/download/Warner-Divide-to-Rule-Appendix.pdf"><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
+<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
+<a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
 
 "Presidents Reward Swing Counties by Protecting their Soldiers during War" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). *Under review*.
 
