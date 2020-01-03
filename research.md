@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Research
 permalink: /research/
 ---
@@ -7,8 +7,8 @@ permalink: /research/
 ### Publications
 
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming. *Political Analysis*. <br> 
-<span style="padding-right:5%"><a href="{{ site.url }}/download/Cohen-Warner-How-To.pdf"><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
-<a href="{{ site.url }}/download/Cohen-Warner-How-To-Appendix.pdf"><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
+<span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [current draft]</a></span>
+<a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fa fa-file-pdf-o'></i> [appendix]</a> 
 
 "A New Measure of Congruence: The Earth Mover's Distance" (with Noam Lupu and Lucía Selios). 2017. *Political Analysis* 25 (1): 95-113. <br>
 <span style="padding-right:5%"><a href="{{ site.url }}/download/Lupu-Selios-Warner-EMD.pdf"><i class='fa fa-file-pdf-o'></i> [paper]</a></span>
