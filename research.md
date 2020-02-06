@@ -8,7 +8,8 @@ permalink: /research
 
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming. *Political Analysis*. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> 
+<span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<span style="padding-left:5%"><a href="https://codeocean.com/capsule/43d4c21a-f961-4133-ad63-b1270f2c6b46/"><i class='fas fa-code-branch'></i> [replication archive]</a></span> 
 
 "A New Measure of Congruence: The Earth Mover's Distance" (with Noam Lupu and Lucía Selios). 2017. *Political Analysis* 25 (1): 95-113. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Selios-Warner-EMD.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
