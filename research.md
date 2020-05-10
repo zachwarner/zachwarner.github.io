@@ -35,6 +35,10 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> 
 
+"Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). <br>
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+
 "Presidents Reward Swing Counties by Protecting their Soldiers during War" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). *Under review*.
 
 "Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in late 2019.
