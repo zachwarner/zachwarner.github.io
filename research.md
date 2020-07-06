@@ -6,6 +6,10 @@ permalink: /research
 
 ### Publications
 
+"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming. *Journal of Politics*. <br>
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming. *Political Analysis*. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
@@ -23,10 +27,6 @@ permalink: /research
 ### Research in progress
 *Divide to Rule: Coalition Bargaining and the Architecture of Government* (book manuscript). 
 
-"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). *Revise and resubmit at the Journal of Politics*. <br>
-<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
-
 "Conditional Relationships in Dynamic Models." *Under review*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
 <a href='{{ "/download/Warner-Conditional-Relationships-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
@@ -35,7 +35,7 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> 
 
-"Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). <br>
+"Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). *Under review*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
 
