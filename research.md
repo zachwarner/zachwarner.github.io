@@ -8,7 +8,7 @@ permalink: /research
 
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming at *Political Analysis*. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
