@@ -6,11 +6,11 @@ permalink: /research
 
 ### Publications
 
-"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming. *Journal of Politics*. <br>
+"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Lupu-Warner-Affluence-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
 
-"How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming. *Political Analysis*. <br> 
+"How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming at *Political Analysis*. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <span style="padding-left:5%"><a href="https://codeocean.com/capsule/43d4c21a-f961-4133-ad63-b1270f2c6b46/"><i class='fas fa-code-branch'></i> [replication archive]</a></span> 
@@ -39,16 +39,16 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
 
+"Hidden in Plain Sight? Detecting Electoral Irregularities Using Statutory Results" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). <br>
+<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
+<a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+
 "Presidents Reward Swing Counties by Protecting their Soldiers during War" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). *Under review*.
+
+"Detecting Election Irregularities with Machine Learning for Visual Data" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). ESRC grant awarded (£17,400).
 
 "Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in late 2019.
 
 "simic: Simulating and Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). R package in beta testing.
 
 "Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). In preparation.
-
-"Detecting Election Irregularities with Machine Learning for Visual Data" (with Christian Arnold, J. Andrew Harris, and Michelle Brown of the National Democratic Institute). ESRC grant awarded (£17,400).
-
-"fastEMD: A fast computation of the Earth Mover’s Distance" (with Andy Eggers). R package under development.
-
-"Measuring Distributional Distance" (with Andy Eggers). In preparation.
