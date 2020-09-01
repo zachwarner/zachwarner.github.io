@@ -35,9 +35,11 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> 
 
+<!--
 "Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). *Under review*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+-->
 
 "Hidden in Plain Sight? Detecting Electoral Irregularities Using Statutory Results" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). <br>
 <span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
