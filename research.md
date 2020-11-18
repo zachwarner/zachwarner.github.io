@@ -12,7 +12,7 @@ permalink: /research
 
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming at *Political Analysis*. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
-<span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Worksheet.xls" | relative_url }}'><i class='fas fa-file-excel'></i> [worksheet]</a></span>
 <span style="padding-left:5%"><a href="https://codeocean.com/capsule/43d4c21a-f961-4133-ad63-b1270f2c6b46/"><i class='fas fa-code-branch'></i> [replication archive]</a></span> 
 
