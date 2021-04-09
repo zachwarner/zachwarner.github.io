@@ -15,7 +15,7 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> <span style="padding-left:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Why-Are"><i class='fab fa-github'></i> [replication archive]</a></span>
 
-"How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). Forthcoming at *Political Analysis*. <br> 
+"How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). 2021. *Political Analysis* 29 (2): 121-138. <br> 
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To-Worksheet.xls" | relative_url }}'><i class='fas fa-file-excel'></i> [worksheet]</a></span>
