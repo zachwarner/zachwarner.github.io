@@ -33,6 +33,10 @@ permalink: /research
 ### Research in progress
 *Divide to Rule: Coalition Bargaining and the Architecture of Government* (book manuscript). 
 
+"Hidden in Plain Sight? Detecting Electoral Irregularities Using Statutory Results" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). *Under review*. <br>
+<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
+<a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
+
 "Conditional Relationships in Dynamic Models." *Under review*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
 <a href='{{ "/download/Warner-Conditional-Relationships-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
@@ -41,16 +45,8 @@ permalink: /research
 <span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> 
 
-"Hidden in Plain Sight? Detecting Electoral Irregularities Using Statutory Results" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). <br>
-<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
-<a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
-
 "Presidents Reward Swing Counties by Protecting their Soldiers during War" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). *Under review*.
-
-"Detecting Election Irregularities with Machine Learning for Visual Data" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). ESRC grant awarded (£17,400).
 
 "Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in late 2019.
 
 "simic: Simulating and Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). R package in beta testing.
-
-"Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). In preparation.
