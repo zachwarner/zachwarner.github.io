@@ -33,7 +33,7 @@ permalink: /research
 ### Research in progress
 *Divide to Rule: Coalition Bargaining and the Architecture of Government* (book manuscript). 
 
-"Hidden in Plain Sight? Detecting Electoral Irregularities Using Statutory Results" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). *Under review*. <br>
+"Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). *Under review*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span> 
 <a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a>
 
