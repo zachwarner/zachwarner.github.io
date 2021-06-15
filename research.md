@@ -6,11 +6,11 @@ permalink: /research
 
 ### Publications
 
-"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*. <br>
-<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
-<span style="padding-left:5%"><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBNBEU"><i class='fas fa-code-branch'></i> [replication archive]</a></span>
-<br>&nbsp;&nbsp;&nbsp;Related coverage: [Washington Post](https://www.washingtonpost.com/politics/2021/06/15/voters-around-world-think-their-governments-are-out-touch-they-have-point/)
+"Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-left:5%"><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBNBEU"><i class='fas fa-code-branch'></i> [replication archive]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.washingtonpost.com/politics/2021/06/15/voters-around-world-think-their-governments-are-out-touch-they-have-point/"><i class='fas fa-microphone'></i> [Washington Post coverage]</a></span>
 
 "Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). Forthcoming at the *European Journal of Political Research*. <br>
 <span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
