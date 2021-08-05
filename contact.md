@@ -5,8 +5,8 @@ permalink: /contact
 ---
 
 ### Currently
-+44 7908 490980 <br>
-zachwarner [at] purdue [dot] edu <br>
++1 765 494 0460 <br>
+<a href="mailto:zachwarner@purdue.edu">zachwarner@purdue.edu</a><br>
 <a href="https://twitter.com/ZachMWarner"><i class="fab fa-twitter"></i> @ZachMWarner</a> 
 
 ### Mailing address
