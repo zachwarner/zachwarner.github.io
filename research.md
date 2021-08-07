@@ -51,6 +51,6 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
 
-"Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in late 2019.
+"Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in 2022.
 
 "simic: Simulating and Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). R package in beta testing.
