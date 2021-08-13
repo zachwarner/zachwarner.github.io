@@ -7,8 +7,8 @@ permalink: /contact
 ### Currently
 +1 765 494 0460 <br>
 <a href="mailto:zachwarner@purdue.edu">zachwarner@purdue.edu</a><br>
-<a href="https://twitter.com/ZachMWarner"><i class="fab fa-twitter"></i> @ZachMWarner</a>
-<a href="https://github.com/zachwarner"><i class="fab fa-github"></i> @zachwarner</a>
+<a href="https://twitter.com/ZachMWarner"><i class="fab fa-twitter"></i> @ZachMWarner</a><br>
+<a href="https://github.com/zachwarner"><i class="fab fa-github"></i> @zachwarner</a><br>
 <a href="https://hub.docker.com/u/zachwarner"><i class="fab fa-docker"></i> @zachwarner</a>
 
 ### Mailing address
