@@ -35,13 +35,13 @@ permalink: /research
 ### Research in progress
 *Divide to Rule: Coalition Bargaining and the Architecture of Government* (book manuscript).
 
+"Conscription Systems, Political Survival, and Battlefield Deaths" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). Revise and resubmit at the *American Political Science Review*.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
+
 "Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). Revise and resubmit at *Electoral Studies*.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
-
-"Conscription Systems, Political Survival, and Battlefield Deaths" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). *Under review*.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
 
 "Conditional Relationships in Dynamic Models." *Under review*.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
