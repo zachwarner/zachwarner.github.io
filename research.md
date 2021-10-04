@@ -9,6 +9,7 @@ permalink: /research
 "Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). Forthcoming at *Electoral Studies*.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Warner-et-al-Hidden"><i class='fab fa-github'></i> [replication archive]</a></span>
 
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
