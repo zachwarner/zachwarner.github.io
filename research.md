@@ -18,7 +18,7 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Why-Are"><i class='fab fa-github'></i> [replication archive]</a></span>
 
 "Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). 2021. *Electoral Studies* 74: 102411.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Warner-et-al-Hidden"><i class='fab fa-github'></i> [replication archive]</a></span>
 
