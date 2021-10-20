@@ -6,11 +6,6 @@ permalink: /research
 
 ### Publications
 
-"Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). Forthcoming at *Electoral Studies*.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Warner-et-al-Hidden"><i class='fab fa-github'></i> [replication archive]</a></span>
-
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). Forthcoming at the *Journal of Politics*.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
@@ -21,6 +16,11 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Why-Are"><i class='fab fa-github'></i> [replication archive]</a></span>
+
+"Hidden in Plain Sight? Irregularities on Statutory Forms and Electoral Fraud" (with Christian Arnold, Michelle Brown, and J. Andrew Harris). 2021. *Electoral Studies* 74: 102411.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Hidden-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Warner-et-al-Hidden"><i class='fab fa-github'></i> [replication archive]</a></span>
 
 "How to Get Better Survey Data More Efficiently" (with Mollie J. Cohen). 2021. *Political Analysis* 29 (2): 121-138.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Cohen-Warner-How-To.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
@@ -53,5 +53,7 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
 
 "Perceptions of Uncertainty" (with Michael DeCrescenzo and Benjamin Toff). Two experiments fielded, and another experiment in nationally-representative survey to be fielded in 2022.
+
+"What They Say, or How They Say It? Content and Affect in Election Observation Reports" (with J. Andrew Harris, Waleed Hashmi, and Ethan Fulton).
 
 "simic: Simulating and Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). R package in beta testing.
