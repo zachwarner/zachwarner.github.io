@@ -12,7 +12,7 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBNBEU'><i class='fas fa-code-branch'></i> [replication archive]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='https://www.washingtonpost.com/politics/2021/06/15/voters-around-world-think-their-governments-are-out-touch-they-have-point/'><i class='fas fa-bullhorn'></i> [Washington Post coverage]</a></span>
 
-"Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). Forthcoming at the *European Journal of Political Research*.
+"Why Are the Affluent Better Represented Around the World?" (with Noam Lupu). 2022. *European Journal of Political Research* 61 (1): 67-85.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Why-Are-the-Affluent-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Why-Are"><i class='fab fa-github'></i> [replication archive]</a></span>
