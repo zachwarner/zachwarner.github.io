@@ -56,4 +56,8 @@ permalink: /research
 
 "What They Say, or How They Say It? Content and Affect in Election Observation Reports" (with J. Andrew Harris and Waleed Hashmi).
 
+"The Loser's Playbook" (with J. Andrew Harris and Michelle Brown).
+
+"Does Peace Remain After the Peacekeepers Leave?" (with Adam Kunkel and Douglas B. Atkinson).
+
 "simic: Simulating and Measuring Ideological Congruence" (with Kevin Fahey and René Lindstädt). R package in beta testing.
