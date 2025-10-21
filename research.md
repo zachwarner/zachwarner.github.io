@@ -6,6 +6,10 @@ permalink: /research
 
 ### Publications
 
+"Conditional Relationships in Dynamic Models" (with Soren Jordan and Garrett Vande Kamp). Forthcoming in *Political Science Research and Methods*.
+
+"Military Labor Systems, Domestic Politics, and the Battlefield" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). Forthcoming in *Comparative Political Studies*.
+
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). 2022. *Journal of Politics* 84 (1): 276-290.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
@@ -36,17 +40,3 @@ permalink: /research
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Congruence-Argentina.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Congruence-Argentina-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/zachwarner/Lupu-Warner-Congruence-Argentina"><i class='fab fa-github'></i> [replication archive]</a></span>
-
-### Research in progress
-
-"Conscription Systems, Political Survival, and Battlefield Deaths" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). Revise and resubmit at the *American Political Science Review*.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Conscription-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
-
-"Conditional Relationships in Dynamic Models." *Under review*.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Conditional-Relationships-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
-
-"Divide to Rule: Deconcentration and Coalition Bargaining." *Under review*.
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [current draft]</a></span>
-<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-Divide-to-Rule-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a> </span>
