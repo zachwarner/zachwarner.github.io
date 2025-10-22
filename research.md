@@ -9,6 +9,7 @@ permalink: /research
 "Conditional Relationships in Dynamic Models" (with Soren Jordan and Garrett Vande Kamp). Forthcoming in *Political Science Research and Methods*.
 
 "Military Labor Systems, Domestic Politics, and the Battlefield" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). Forthcoming in *Comparative Political Studies*.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Atkinson-et-al-Military.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 
 "Affluence and Congruence: Unequal Representation Around the World" (with Noam Lupu). 2022. *Journal of Politics* 84 (1): 276-290.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
