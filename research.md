@@ -6,9 +6,16 @@ permalink: /research
 
 ### Publications
 
-"Conditional Relationships in Dynamic Models" (with Soren Jordan and Garrett Vande Kamp). Forthcoming in *Political Science Research and Methods*.
+"Here Today, Gone Tomorrow: Dynamics of Peacekeeper Entry and Exit on Violence Against Civilians" (with Sky Kunkel, Douglas Atkinson, and Rebecca Dudley). Forthcoming in *International Political Science Review*.
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Kunkel-et-al.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href="https://github.com/skytheacademic/when_peacekeepers_leave"><i class='fab fa-github'></i> [replication archive]</a></span>
 
-"Military Labor Systems, Domestic Politics, and the Battlefield" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt). Forthcoming in *Comparative Political Studies*.
+"Conditional Relationships in Dynamic Models" (with Soren Jordan and Garrett Vande Kamp). Forthcoming in *Political Science Research and Methods*. 
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Conditional-Relationships.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Warner-et-al-Conditional-Relationships-Appendix.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [appendix]</a></span>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='https://dataverse.harvard.edu/citation?persistentId=doi:10.7910/DVN/28X6HU'><i class='fas fa-code-branch'></i> [replication archive]</a></span>
+
+"Military Labor Systems, Domestic Politics, and the Battlefield" (with Douglas B. Atkinson, Kevin Fahey, and René Lindstädt).    2026. *Comparative Political Studies* 59 (3): 475-512.
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='{{ "/download/Lupu-Warner-Affluence.pdf" | relative_url }}'><i class='fas fa-file-pdf'></i> [paper]</a></span>
 <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style="padding-right:5%"><a href='https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/JSTTOJ'><i class='fas fa-code-branch'></i> [replication archive]</a></span>
 
